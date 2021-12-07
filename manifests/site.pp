@@ -1,3 +1,3 @@
 node default {
-  notify { 'This is the master environment' : }
+  notify { 'This is the production environment' : }
 }
